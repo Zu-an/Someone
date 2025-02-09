@@ -26,17 +26,17 @@ body {
 }
 
 .happy>span {
-  animation: glow 2.5s ease-in-out infinite;
+  animation: glow 4.0s ease-in-out infinite;
 }
 
 
 .birthday {
+  display: flex;
   justify-content: center;
-  align-items: center;
 }
 
 .birthday>span {
-  animation: glow 2.5s ease-in-out infinite;
+  animation: glow 4.0s ease-in-out infinite;
 }
 
 @keyframes glow {
