@@ -26,7 +26,7 @@ body {
 }
 
 .happy>span {
-  animation: glow 4.0s ease-in-out infinite;
+  animation: glow 2.8s ease-in-out infinite;
 }
 
 
@@ -36,7 +36,7 @@ body {
 }
 
 .birthday>span {
-  animation: glow 4.0s ease-in-out infinite;
+  animation: glow 2.8s ease-in-out infinite;
 }
 
 @keyframes glow {
@@ -74,77 +74,40 @@ body {
   animation-delay: 1.0s;
 }
 
-.happy>span:nth-child(6) {
-  animation-delay: 1.0s;
-}
-
-.happy>span:nth-child(7) {
+.birthday>span:nth-child(1) {
   animation-delay: 1.2s;
 }
 
-.happy>span:nth-child(8) {
+.birthday>span:nth-child(2) {
   animation-delay: 1.4s;
 }
 
-.happy>span:nth-child(9) {
+.birthday>span:nth-child(3) {
   animation-delay: 1.6s;
 }
 
-.happy>span:nth-child(10) {
+.birthday>span:nth-child(4) {
   animation-delay: 1.8s;
 }
 
-.happy>span:nth-child(11) {
+.birthday>span:nth-child(5) {
   animation-delay: 2.0s;
 }
 
-.happy>span:nth-child(12) {
+.birthday>span:nth-child(6) {
   animation-delay: 2.2s;
 }
 
-.happy>span:nth-child(13) {
+.birthday>span:nth-child(7) {
   animation-delay: 2.4s;
 }
 
-.happy>span:nth-child(14) {
+.birthday>span:nth-child(8) {
   animation-delay: 2.6s;
 }
 
-
-.birthday>span:nth-child(1) {
-  animation-delay: 2.8s;
-}
-
-.birthday>span:nth-child(2) {
-  animation-delay: 3.0s;
-}
-
-.birthday>span:nth-child(3) {
-  animation-delay: 3.2s;
-}
-
-.birthday>span:nth-child(4) {
-  animation-delay: 3.4s;
-}
-
-.birthday>span:nth-child(5) {
-  animation-delay: 3.6s;
-}
-
-.birthday>span:nth-child(6) {
-  animation-delay: 3.8s;
-}
-
-.birthday>span:nth-child(7) {
-  animation-delay: 4.0s;
-}
-
-.birthday>span:nth-child(8) {
-  animation-delay: 4.2s;
-}
-
 .birthday>span:nth-child(9) {
-  animation-delay: 4.4s;
+  animation-delay: 2.8s;
 }
 
 .description {
