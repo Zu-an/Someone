@@ -66,40 +66,85 @@ body {
   animation-delay: .6s;
 }
 
-.birthday>span:nth-child(1) {
+.happy>span:nth-child(4) {
   animation-delay: .8s;
 }
 
-.birthday>span:nth-child(2) {
+.happy>span:nth-child(5) {
   animation-delay: 1.0s;
 }
 
-.birthday>span:nth-child(3) {
+.happy>span:nth-child(6) {
+  animation-delay: 1.0s;
+}
+
+.happy>span:nth-child(7) {
   animation-delay: 1.2s;
 }
 
-.birthday>span:nth-child(4) {
+.happy>span:nth-child(8) {
   animation-delay: 1.4s;
 }
 
-.birthday>span:nth-child(5) {
+.happy>span:nth-child(9) {
   animation-delay: 1.6s;
 }
 
-.birthday>span:nth-child(6) {
+.happy>span:nth-child(10) {
   animation-delay: 1.8s;
 }
 
-.birthday>span:nth-child(7) {
+.happy>span:nth-child(11) {
   animation-delay: 2.0s;
 }
 
-.birthday>span:nth-child(8) {
+.happy>span:nth-child(12) {
   animation-delay: 2.2s;
 }
 
-.birthday>span:nth-child(9) {
+.happy>span:nth-child(13) {
   animation-delay: 2.4s;
+}
+
+.happy>span:nth-child(14) {
+  animation-delay: 2.6s;
+}
+
+
+.birthday>span:nth-child(1) {
+  animation-delay: 2.8s;
+}
+
+.birthday>span:nth-child(2) {
+  animation-delay: 3.0s;
+}
+
+.birthday>span:nth-child(3) {
+  animation-delay: 3.2s;
+}
+
+.birthday>span:nth-child(4) {
+  animation-delay: 3.4s;
+}
+
+.birthday>span:nth-child(5) {
+  animation-delay: 3.6s;
+}
+
+.birthday>span:nth-child(6) {
+  animation-delay: 3.8s;
+}
+
+.birthday>span:nth-child(7) {
+  animation-delay: 4.0s;
+}
+
+.birthday>span:nth-child(8) {
+  animation-delay: 4.2s;
+}
+
+.birthday>span:nth-child(9) {
+  animation-delay: 4.4s;
 }
 
 .description {
